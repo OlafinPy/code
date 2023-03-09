@@ -5,4 +5,4 @@ x=[]
 i=0
 for i in range(n):
     x.append(random.randint(0,k))
-print(x)    
+print(xpip)    
